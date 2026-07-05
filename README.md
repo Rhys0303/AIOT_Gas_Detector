@@ -33,7 +33,7 @@
     * **核心決策邏輯 (Logic)：** 匯整異質數據，執行階層式條件分流，控制警報狀態。
 3.  **底層：實體感測硬體 (Hardware & Sensing Layer)**
     * 透過主控微處理器採集環境瓦斯與一氧化碳濃度，並對接實體蜂鳴器（Buzzer）實施秒級在地物理預警。
-
+<img width="523" height="591" alt="圖片" src="https://github.com/user-attachments/assets/41b7f5e1-7eea-41c9-b594-2b196734d0ae" />
 ---
 
 ## 🧠 核心判定演算法 (Decision Flowchart)
@@ -56,14 +56,6 @@
 
 <img width="436" height="601" alt="圖片" src="https://github.com/user-attachments/assets/3cb7fca9-4a5d-43da-a3d4-6c5e380857fb" />
 
-
-
-
-
-
-#系統架構圖
---------------------------------------------------------------------------------------------------------------------------------
-<img width="523" height="591" alt="圖片" src="https://github.com/user-attachments/assets/41b7f5e1-7eea-41c9-b594-2b196734d0ae" />
 
 
 ---
