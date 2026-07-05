@@ -55,8 +55,10 @@
 └──► [決策 4: 無危害?] ─────(是: 無火且正常)───►  [正常無危害] ➔ 維持綠色 SAFE 燈號
 
 <img width="436" height="601" alt="圖片" src="https://github.com/user-attachments/assets/3cb7fca9-4a5d-43da-a3d4-6c5e380857fb" />
+
+
 ---
-### 📊 模型訓練與部署規格 
+## 📊模型訓練與部署規格 
 
 | 技術項目| 系統採用的核心規格 |
 | :--- | :--- |
@@ -69,7 +71,6 @@
 
 
 ---
-
 ##  實務驗證與展示 
 
 | 測試情境 | 前端介面狀態 | YOLO 辨識結果 | 決策響應與燈號 |
@@ -88,6 +89,10 @@
 
 | **4. 極端瓦斯外洩** | GAS LEVEL: 977 | `None` | 🔴 **ALARM** (雙重危害最高防護響應) |
 <img width="594" height="322" alt="圖片" src="https://github.com/user-attachments/assets/93958b2b-8448-4bc1-99b0-9603978f23e8" />
+
+
+
+
 
 
 
